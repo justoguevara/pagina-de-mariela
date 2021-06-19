@@ -1,0 +1,90 @@
+
+function dat_imag_01(){
+var dat= {};
+
+    dat.arquitectura = {};
+    i = dat.arquitectura;
+    i.dir = "arq/arquitectura/";
+    i[0]=["fachadas limpias",""];
+    i[1]=["iluminacion","escencia del diseño"];
+    i[2]=["escalera escultorica",""];
+    i[3]=["mininmalisto","elementos metalicos"];
+    i[4]=["minimalismo ","elementos metalicos"];
+    i[5]=["simplicidad","elementos verticales"];
+    i[6]=["espacios sociales","jardin posterior"];
+    i[7]=["jardines","integracion a la vivienda"];
+    i[8]=["simplicidad y elegancia","protagonismo del blnco"];
+    i[9]=["trancisiones","espacios que se complementan"];
+    i[10]=["jardines secos","ahorro en mantenimiento"];
+    i[11]=[];
+    i[12]=[];
+    i[13]=[];
+    i[14]=[];
+    i[15]=[];
+    i[16]=[];
+    i[17]=[];
+    i[18]=[];
+
+    dat.ideas = {};
+    i = dat.ideas;
+    i.dir = "arq/ideas/";
+    i[0]=[];
+    i[1]=[];
+    i[2]=[];
+    i[3]=[];
+    i[4]=[];
+    i[5]=[];
+    i[6]=[];
+    i[7]=[];
+    i[8]=[];
+    i[9]=[];
+    i[10]=[];
+    i[11]=[];
+    i[12]=[];
+    i[13]=[];
+    i[14]=[];
+    i[15]=[];
+    i[16]=[];
+    i[17]=[];
+    i[18]=[];
+    i[19]=[];
+    i[20]=[];
+    i[21]=[];
+    i[22]=[];
+    i[23]=[];
+    i[24]=[];
+    i[25]=[];
+    i[26]=[];
+    i[27]=[];
+    i[28]=[];
+    i[29]=[];
+    i[30]=[];
+    i[31]=[];
+    i[32]=[];
+
+    dat.interior = {};
+    i = dat.interior;
+    i.dir = "arq/interior/";
+    i[0]=[];
+    i[1]=[];
+    i[2]=[];
+    i[3]=[];
+    i[4]=[];
+    i[5]=[];
+    i[6]=[];
+    i[7]=[];
+    i[8]=[];
+    i[9]=[];
+    i[10]=[];
+    i[11]=[];
+    i[12]=[];
+    i[13]=[];
+    i[14]=[];
+    i[15]=[];
+
+    dat.modelado = {};
+    i = dat.modelado;
+    i.dir = "arq/modelado/";
+
+return dat;
+}
